@@ -1,0 +1,12 @@
+{
+    "token": "dont put your token here put it in main.py",
+    "password": "dont put your pass",
+    "prefix": "your prefix?",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": true,
+    "privnote_sniper": true,
+
+    "stream_url": "https://twitch.tv/jlangisthebestcoder",
+    "tts_language": "en",
